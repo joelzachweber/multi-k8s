@@ -1,0 +1,1 @@
+A web application to calculate the number at index N of the Fibonacci Sequence. Receives input from a user through a web page, calculates the value, then displays it for the user. Implemented through a Kubernetes Cluster. Created as an exercise for the Udemy Course "Docker and Kubernetes: The Complete Guide" by Stephen Grider.
